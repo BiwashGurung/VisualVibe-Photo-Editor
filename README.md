@@ -1,4 +1,4 @@
-# Photo-Editor-Tool
+# VisualVibe-Photo-Editor Tool
 # Build with HTML , CSS and JavaScript
 
 
